@@ -1,0 +1,47 @@
+程序设计
+	Office2019
+		Word
+		Excel
+		Access
+		Powerpoint
+	CodeBlocks
+	Dev-C++
+	Anaconda3
+	Python 3.8
+	Keil uV5
+	TD-OSC
+	WebStorm
+	VS Code
+		PlatformIO IDE
+	HBuilderX
+	Mixly
+	Fritzing
+	JDK
+	NetBeans IDE 8.2
+	Git Bash
+
+ChangeLog
+2020-10-14 v1.0
+	安装Git Bash
+	安装极域
+2020-10-08 v0.9
+	安装JDK
+	安装NetBeans IDE 8.2
+2020-09-24 v0.8
+	安装Fritzing
+2020-09-16 v0.7
+	安装Mixly
+2020-09-13 v0.6
+	安装Visual Studio Code
+	安装WebStorm
+	安装HBuilderX
+2020-09-03 v0.5
+	安装Keil uV5
+	安装TD-OSC
+2020-08-05 v0.4
+	安装VC6.0
+2020-08-05 v0.3
+	安装CodeBlocks
+	安装Dev-C++
+	安装Anaconda3
+	安装Python 3.8
